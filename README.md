@@ -1,4 +1,5 @@
-## EXNO-3-DS
+## EX NO:3-Feature Encoding and Transformation
+
 
 
 ## NAME    :  DINESH KARTHICK K J 
